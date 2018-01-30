@@ -1,8 +1,10 @@
 # 科学上网相关知识总结
 
 * [前言](README.md)
-* [背景](background/README.md)
-* [相关技术和工具](various_tech_tool/README.md)
+* [科学上网介绍](scientific_network_intro/README.md)
+  * [什么是科学上网](scientific_network_intro/what.md)
+  * [为何要科学上网](scientific_network_intro/why.md)
+  * [相关技术和工具](scientific_network_intro/various_tech_tool.md)
 * [Shadowsocks介绍](shadowsocks_intro/README.md)
   * [简介](shadowsocks_intro/ss_intro.md)
   * [购买第三方服务](shadowsocks_intro/buy_ss_service.md)
