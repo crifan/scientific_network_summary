@@ -1,4 +1,4 @@
-# 如何通过客户端使用Shadowsocks
+# Shadowsocks的客户端
 
 想要用ss技术实现科学上网，在已经通过某种方式，比如：
 

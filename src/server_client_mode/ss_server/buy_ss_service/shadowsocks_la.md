@@ -50,9 +50,9 @@ https://portal.shadowsocks.la/
 
 https://portal.shadowsocks.la/cart.php?gid=1
 
-![shadowsocks.la的portoal页面](../../assets/img/shadowsocks_la_portal_cart.png)
+![shadowsocks.la的portoal页面](../../../assets/img/shadowsocks_la_portal_cart.png)
 
-![shadowsocks.la的不同套餐](../../assets/img/multile_combo_service.jpg)
+![shadowsocks.la的不同套餐](../../../assets/img/multile_combo_service.jpg)
 
 套餐说明：
 
@@ -87,39 +87,39 @@ https://portal.shadowsocks.la/cart.php?gid=1
 
 https://portal.shadowsocks.la/cart.php?a=confproduct&i=0
 
-![shadowsocks.la的确认套餐](../../assets/img/confirm_combo_service.jpg)
+![shadowsocks.la的确认套餐](../../../assets/img/confirm_combo_service.jpg)
 
 然后进入结账页面：
 
 https://portal.shadowsocks.la/cart.php?a=view
 
-![shadowsocks.la的结账之前](../../assets/img/before_checkout.png)
+![shadowsocks.la的结账之前](../../../assets/img/before_checkout.png)
 
 https://portal.shadowsocks.la/cart.php?a=checkout
 
-![shadowsocks.la的去结账1](../../assets/img/goto_checkout_1.png)
+![shadowsocks.la的去结账1](../../../assets/img/goto_checkout_1.png)
 
-![shadowsocks.la的去结账2](../../assets/img/goto_checkout_2.png)
+![shadowsocks.la的去结账2](../../../assets/img/goto_checkout_2.png)
 
 然后去用支付宝支付：
 
 https://portal.shadowsocks.la/viewinvoice.php?id=9167982
 
-![shadowsocks.la的用支付宝支付](../../assets/img/use_alipay_to_payment.jpg)
+![shadowsocks.la的用支付宝支付](../../../assets/img/use_alipay_to_payment.jpg)
 
 https://excashier.alipay.com/standard/auth.htm?auth_order_id=exc_28fd84d9b84e46179109a55a4480065d
 
-![shadowsocks.la的需要支付宝扫码](../../assets/img/need_alipay_scan_qrcode.jpg)
+![shadowsocks.la的需要支付宝扫码](../../../assets/img/need_alipay_scan_qrcode.jpg)
 
 然后用支付宝去扫描支付即可。
 
 支付成功后，会自动跳转回到商户页面：
 
-![shadowsocks.la的支付成功后跳转](../../assets/img/after_alipay_redirect.png)
+![shadowsocks.la的支付成功后跳转](../../../assets/img/after_alipay_redirect.png)
 
 贴上此处支付后支付宝的交易信息：
 
-![shadowsocks.la的支付包支付后交易信息](../../assets/img/alipay_payment_detail_info.png)
+![shadowsocks.la的支付包支付后交易信息](../../../assets/img/alipay_payment_detail_info.png)
 
 然后回到shadowsocks.la中，进去：
 
@@ -127,13 +127,13 @@ https://portal.shadowsocks.la/clientarea.php
 
 可以从：`服务` -> `我的服务`：
 
-![shadowsocks.la中我的服务](../../assets/img/shadowsocks_la_my_service.png)
+![shadowsocks.la中我的服务](../../../assets/img/shadowsocks_la_my_service.png)
 
 中找到已购买的服务：
 
 https://portal.shadowsocks.la/clientarea.php?action=services
 
-![shadowsocks.la已购买的服务](../../assets/img/shadowsocks_la_ordered_service.png)
+![shadowsocks.la已购买的服务](../../../assets/img/shadowsocks_la_ordered_service.png)
 
 点击后，进入服务详情页：
 
@@ -143,11 +143,11 @@ https://portal.shadowsocks.la/clientarea.php?action=productdetails&id=993287
 
 （1）购买的服务的基本描述
 
-![shadowsocks.la服务描述信息](../../assets/img/shadowsocks_la_service_description.jpg)
+![shadowsocks.la服务描述信息](../../../assets/img/shadowsocks_la_service_description.jpg)
 
 （2）ss的配置信息
 
-![shadowsocks.la的ss服务配置信息](../../assets/img/shadowsocks_la_ss_configuration.jpg)
+![shadowsocks.la的ss服务配置信息](../../../assets/img/shadowsocks_la_ss_configuration.jpg)
 
 ## shadowsocks.la中ss的配置说明
 
@@ -183,7 +183,7 @@ shadowsocks.la中：
 
 点击**配置文件**的**下载**，可以弹出对应下载不同配置的页面：
 
-![shadowsocks.la的ss配置下载](../../assets/img/shadowsocks_la_ss_config_download.png)
+![shadowsocks.la的ss配置下载](../../../assets/img/shadowsocks_la_ss_config_download.png)
 
 ### 流量费率
 
@@ -211,4 +211,6 @@ shadowsocks.la中：
 
 ### 二维码
 
-关于如何在ss客户端中利用扫码而快捷添加ss服务器的过程，后续会详细介绍。
+点击对应的按钮，可以出现二维码，而其他客户端（比如Mac中的ShadowsocksX-NG，Android手机中的影梭等）可以去扫码添加此ss服务器的配置信息，实现快速添加配置的效果。
+
+具体的操作过程，详见后面的详细解释。
