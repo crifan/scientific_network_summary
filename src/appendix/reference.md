@@ -27,3 +27,8 @@
 * [Shadowsocks SS 科学上网 一键部署脚本 加密技术扫盲 - 黑客派](https://hacpai.com/article/1501320034354)
 * [求推荐支持chacha20-ietf-poly1305加密的IOS客户端【ss代理吧】_百度贴吧](https://tieba.baidu.com/p/5229332187)
 * [史上最详细的OpenWrt shadowsocks路由器自动翻墙教程](https://softwaredownload.gitbooks.io/openwrt-fanqiang/)
+* [智能翻墙工具推荐 多态（DUOTAI.ORG）现已开放少量邀请注册，邀请码激活数量有限。 本次的邀请码为：BERNERS-LEE，以此纪念万维网发明者](https://plus.google.com/+DarcyLee/posts/a4s3S9QhouD)
+* [多态：无需安装客户端的高速自动判断型VPN工具 - 外贸推广 - 环球外贸论坛](https://bbs.fob5.com/forum.php?mod=viewthread&tid=84305)
+* [「多态」是一家极其糟糕的服务商，烂如情怀锤。 - 简书](https://www.jianshu.com/p/556881b5a753)
+* [真正不限速的VPN推荐一：挂多态Instagram/tumblr发图秒速上传_安全防御_浠水网 xishuiw.com](http://www.xishuiw.com/info/2017-2/2017-2-9-55500.htm)
+* [多账号被封 | 参差多态，才是幸福本源 - 简书](https://www.jianshu.com/p/d2d1b630f68b)
