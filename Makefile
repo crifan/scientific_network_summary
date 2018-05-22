@@ -201,7 +201,7 @@ all: website pdf epub mobi
 ################################################################################
 PASSWORD_FILE=../sshpass_password.txt
 REMOTE_USER=root
-REMOTE_SERVER=45.79.205.194
+REMOTE_SERVER=80.85.87.205
 REMOTE_BOOKS_PATH=/home/wwwroot/book.crifan.com/books
 # REMOTE_PATH=$(REMOTE_BOOKS_PATH)/$(BOOK_NAME)
 REMOTE_PATH=$(REMOTE_BOOKS_PATH)
