@@ -16,7 +16,7 @@ shadowsocks.org：
 > **[warning] 不要把ss技术官网和普通的提供ss服务的公司的官网搞混淆了**
 >
 > 请注意：不要把ss技术的官网，和其他提供ss服务的公司的网站，比如：
-> * shadowsocks.com -> 现已改为：shadowsocks.la
+> * shadowsocks.com -> 现已改为：shadowsocks.to
 > * shadowsocksvpn.com
 >
 > 搞混淆了。

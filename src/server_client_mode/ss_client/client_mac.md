@@ -10,7 +10,7 @@ Mac下的Shadowsocks客户端也有不止一个。
   * 对应下载地址是：[ShadowsocksX-2.6.3.dmg]([https://github.com/shadowsocks/shadowsocks-iOS/releases/download/2.6.3/ShadowsocksX-2.6.3.dmg])
 * `ShadowsocksX-NG`
   * 之所以换用ShadowsocksX-NG：
-    * 后来在shadowsocks.la改用新加密算法`chacha20-ietf-poly1305`后，而ShadowsocksX不支持，所以才换用`ShadowsocksX-NG`的。
+    * 后来在shadowsocks.to改用新加密算法`chacha20-ietf-poly1305`后，而ShadowsocksX不支持，所以才换用`ShadowsocksX-NG`的。
 
 两个版本的功能和使用方式，基本上没太大区别。
 
@@ -83,9 +83,9 @@ Shadowsocks-NG，点击以启动：
 
 前提是已经有了对应的服务器的二维码
 
-对于之前去[shadowsocks.la](https://portal.shadowsocks.la/)去购买了ss服务后，可以通过后台管理页面中找到对应二维码。
+对于之前去[shadowsocks.to](https://portal.shadowsocks.to/)去购买了ss服务后，可以通过后台管理页面中找到对应二维码。
 
-此处去登录shadowsocks.la的后台管理页面，点击二维码：
+此处去登录shadowsocks.to的后台管理页面，点击二维码：
 
 ![点击ss的服务的二维码](../../assets/img/click_ss_single_server_to_show_qrcode.png)
 
@@ -114,13 +114,13 @@ Shadowsocks-NG，点击以启动：
 ![ShadowsocksX-NG手动填写ss服务器配置](../../assets/img/shadowsocksx_ng_manual_fill_config.png)
 
 * 地址：[必填]服务器的IP或域名地址
-  * 对应着shadowsocks.la提供的：`节点服务器地址`
+  * 对应着shadowsocks.to提供的：`节点服务器地址`
 * 端口：[必填]端口号
-  * 对应着shadowsocks.la提供的：`服务端口`
+  * 对应着shadowsocks.to提供的：`服务端口`
 * 加密方法：[必填]（现在最新的加密方法是）`chacha20-ietf-poly1305`
-  * 对应着shadowsocks.la提供的：`加密方式`
+  * 对应着shadowsocks.to提供的：`加密方式`
 * 密码：[必填]密码
-  * 对应着shadowsocks.la提供的：`登录密码`
+  * 对应着shadowsocks.to提供的：`登录密码`
 * 备注：[选填]
   * 自己填个自己觉得容易识别的好记的名字
   * 比如： hk1

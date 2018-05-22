@@ -12,7 +12,7 @@
 * [服务器+客户端模式](server_client_mode/README.md)
   * [Shadowsocks服务器端](server_client_mode/ss_server/README.md)
     * [购买第三方服务](server_client_mode/ss_server/buy_ss_service/README.md)
-      * [购买shadowsocks.la的服务](server_client_mode/ss_server/buy_ss_service/shadowsocks_la.md)
+      * [购买shadowsocks.to的服务](server_client_mode/ss_server/buy_ss_service/shadowsocks_la.md)
     * [自己搭建服务器](server_client_mode/ss_server/self_build_ss_server.md)
   * [Shadowsocks客户端](server_client_mode/ss_client/README.md)
     * [ss客户端的通用逻辑](server_client_mode/ss_client/client_common_logic.md)

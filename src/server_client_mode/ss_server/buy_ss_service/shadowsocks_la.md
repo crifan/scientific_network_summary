@@ -1,30 +1,26 @@
-# 购买shadowsocks.la的ss服务
+# 购买 shadowsocks.to 的ss服务
 
 ss的服务的提供商有很多，包括国内的和国外的。
 
 其中我自己一直在用的，且觉得效果不错的是：
 
-https://www.shadowsocks.la
+https://www.shadowsocks.to
 
-## shadowsocks.la简介
+## shadowsocks.to 简介
 
-shadowsocks.la这个网站上，可以购买ss服务。
+shadowsocks.to这个网站上，可以购买ss服务。
 
-shadowsocks.la背后对应的公司是：`Cat Networks Hong Kong Limited`
+shadowsocks.to背后对应的公司是：`Cat Networks Hong Kong Limited`
 
-## shadowsocks.la的旧网址是：shadowsocks.com
+> **[warning] 该公司的网址更换了多次 **
+> * 最开始的网址是：https://www.shadowsocks.com
+> * 可能是怕别人误解为`shadowsocks`的官网，所以换了地址：https://www.shadowsocks.la
+> * 可能是防止被和谐，（截至20180522）又换了地址：https://www.shadowsocks.to
+>   * 同时支付的货币币种从`美元`改为了`澳元`
 
-shadowsocks.la之前的网站地址是：shadowsocks.com
+### shadowsocks.to 的自己的声明
 
-> 之所以要提之前的网址是因为
->
-> shadowsocks.com，很容易让人以为是shadowsocks的官网呢
->
-> 实际上不是，只是一家提供ss服务的公司的网站而已。
-
-### shadowsocks.la的自己的声明
-
-正因为此，所以才会看到，最新的网站shadowsocks.la中，官网挂出了声明，专门提醒这一点：
+正因为此，所以才会看到，最新的网站shadowsocks.to中，官网挂出了声明，专门提醒这一点：
 
 > To all visitors:
 >
@@ -34,25 +30,25 @@ shadowsocks.la之前的网站地址是：shadowsocks.com
 >
 > Thank you.
 
-所以看到此文的人，搞清楚shadowsocks.la只是一家提供了ss服务的公司的网站即可。
+所以看到此文的人，搞清楚shadowsocks.to只是一家提供了ss服务的公司的网站即可。
 
 ## 购买地址
 
-对应的，shadowsocks.la的最新的注册+登录+购买的地址是：
+对应的，shadowsocks.to的最新的注册+登录+购买的地址是：
 
-https://portal.shadowsocks.la/
+https://portal.shadowsocks.to/
 
-## 购买shadowsocks.la的ss服务的过程
+## 购买 shadowsocks.to 的ss服务的过程
 
-登录地址：[Client Area - Shadowsocks.com Portal](https://portal.shadowsocks.la/clientarea.php)
+登录地址：[Client Area - Shadowsocks.com Portal](https://portal.shadowsocks.to/clientarea.php)
 
 会进入：
 
-https://portal.shadowsocks.la/cart.php?gid=1
+https://portal.shadowsocks.to/cart.php?gid=1
 
-![shadowsocks.la的portoal页面](../../../assets/img/shadowsocks_la_portal_cart.png)
+![shadowsocks.to的portoal页面](../../../assets/img/shadowsocks_la_portal_cart.png)
 
-![shadowsocks.la的不同套餐](../../../assets/img/multile_combo_service.jpg)
+![shadowsocks.to的不同套餐](../../../assets/img/multile_combo_service.jpg)
 
 套餐说明：
 
@@ -85,71 +81,71 @@ https://portal.shadowsocks.la/cart.php?gid=1
 
 点击对应套餐后，进入：
 
-https://portal.shadowsocks.la/cart.php?a=confproduct&i=0
+https://portal.shadowsocks.to/cart.php?a=confproduct&i=0
 
-![shadowsocks.la的确认套餐](../../../assets/img/confirm_combo_service.jpg)
+![shadowsocks.to的确认套餐](../../../assets/img/confirm_combo_service.jpg)
 
 然后进入结账页面：
 
-https://portal.shadowsocks.la/cart.php?a=view
+https://portal.shadowsocks.to/cart.php?a=view
 
-![shadowsocks.la的结账之前](../../../assets/img/before_checkout.png)
+![shadowsocks.to的结账之前](../../../assets/img/before_checkout.png)
 
-https://portal.shadowsocks.la/cart.php?a=checkout
+https://portal.shadowsocks.to/cart.php?a=checkout
 
-![shadowsocks.la的去结账1](../../../assets/img/goto_checkout_1.png)
+![shadowsocks.to的去结账1](../../../assets/img/goto_checkout_1.png)
 
-![shadowsocks.la的去结账2](../../../assets/img/goto_checkout_2.png)
+![shadowsocks.to的去结账2](../../../assets/img/goto_checkout_2.png)
 
 然后去用支付宝支付：
 
-https://portal.shadowsocks.la/viewinvoice.php?id=9167982
+https://portal.shadowsocks.to/viewinvoice.php?id=9167982
 
-![shadowsocks.la的用支付宝支付](../../../assets/img/use_alipay_to_payment.jpg)
+![shadowsocks.to的用支付宝支付](../../../assets/img/use_alipay_to_payment.jpg)
 
 https://excashier.alipay.com/standard/auth.htm?auth_order_id=exc_28fd84d9b84e46179109a55a4480065d
 
-![shadowsocks.la的需要支付宝扫码](../../../assets/img/need_alipay_scan_qrcode.jpg)
+![shadowsocks.to的需要支付宝扫码](../../../assets/img/need_alipay_scan_qrcode.jpg)
 
 然后用支付宝去扫描支付即可。
 
 支付成功后，会自动跳转回到商户页面：
 
-![shadowsocks.la的支付成功后跳转](../../../assets/img/after_alipay_redirect.png)
+![shadowsocks.to的支付成功后跳转](../../../assets/img/after_alipay_redirect.png)
 
 贴上此处支付后支付宝的交易信息：
 
-![shadowsocks.la的支付包支付后交易信息](../../../assets/img/alipay_payment_detail_info.png)
+![shadowsocks.to的支付包支付后交易信息](../../../assets/img/alipay_payment_detail_info.png)
 
-然后回到shadowsocks.la中，进去：
+然后回到shadowsocks.to中，进去：
 
-https://portal.shadowsocks.la/clientarea.php
+https://portal.shadowsocks.to/clientarea.php
 
 可以从：`服务` -> `我的服务`：
 
-![shadowsocks.la中我的服务](../../../assets/img/shadowsocks_la_my_service.png)
+![shadowsocks.to中我的服务](../../../assets/img/shadowsocks_la_my_service.png)
 
 中找到已购买的服务：
 
-https://portal.shadowsocks.la/clientarea.php?action=services
+https://portal.shadowsocks.to/clientarea.php?action=services
 
-![shadowsocks.la已购买的服务](../../../assets/img/shadowsocks_la_ordered_service.png)
+![shadowsocks.to已购买的服务](../../../assets/img/shadowsocks_la_ordered_service.png)
 
 点击后，进入服务详情页：
 
-https://portal.shadowsocks.la/clientarea.php?action=productdetails&id=993287
+https://portal.shadowsocks.to/clientarea.php?action=productdetails&id=993287
 
 然后可以看到对应的信息：
 
 （1）购买的服务的基本描述
 
-![shadowsocks.la服务描述信息](../../../assets/img/shadowsocks_la_service_description.jpg)
+![shadowsocks.to服务描述信息](../../../assets/img/shadowsocks_la_service_description.jpg)
 
 （2）ss的配置信息
 
-![shadowsocks.la的ss服务配置信息](../../../assets/img/shadowsocks_la_ss_configuration.jpg)
+![shadowsocks.to的ss服务配置信息](../../../assets/img/shadowsocks_la_ss_configuration.jpg)
 
-## shadowsocks.la中ss的配置说明
+## shadowsocks.to中ss的配置说明
 
 对此处的ss的配置信息解释一下：
 
@@ -173,7 +169,7 @@ https://portal.shadowsocks.la/clientarea.php?action=productdetails&id=993287
 
 ### 加密方式
 
-shadowsocks.la中：
+shadowsocks.to中：
 
 * 现在采用最新的加密方式：`chacha20-ietf-poly1305`
   * 之前旧的加密方式是(最常见，但是不是足够复杂和安全的)：`aes-256-cfb`
@@ -183,7 +179,7 @@ shadowsocks.la中：
 
 点击**配置文件**的**下载**，可以弹出对应下载不同配置的页面：
 
-![shadowsocks.la的ss配置下载](../../../assets/img/shadowsocks_la_ss_config_download.png)
+![shadowsocks.to的ss配置下载](../../../assets/img/shadowsocks_la_ss_config_download.png)
 
 ### 流量费率
 

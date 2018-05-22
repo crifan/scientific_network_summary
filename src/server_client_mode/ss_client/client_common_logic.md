@@ -15,11 +15,11 @@
 
 然后把这些配置信息，添加到ss的客户端中，就可以使用ss了。
 
-## shadowsocks.la中的各个服务器的实际使用效果
+## shadowsocks.to中的各个服务器的实际使用效果
 
 之前从
 
-https://www.shadowsocks.la
+https://www.shadowsocks.to
 
 买到的不论是个人账号还是高级账号，都是多个ss的服务器，典型的有：
 
@@ -36,7 +36,7 @@ https://www.shadowsocks.la
 
 所以：
 
-自己常常把ss客户端中的shadowsocks.la的ss服务器**设置为us1或us2，偶尔也换jp1试试**。
+自己常常把ss客户端中的shadowsocks.to的ss服务器**设置为us1或us2，偶尔也换jp1试试**。
 
 ## 加密方式：`aes-256-cfb` 和 `chacha20-ietf-poly1305`
 
@@ -46,7 +46,7 @@ ss技术本身不限制你采用何种加密方式去加密数据。
 
 目前主流的ss服务器端所采用的加密方式，其实更多的还是：`aes-256-cfb`
 
-而有些ss服务，比如前面提到的shadowsocks.la，现在是采用最新的加密方式：`chacha20-ietf-poly1305`
+而有些ss服务，比如前面提到的shadowsocks.to，现在是采用最新的加密方式：`chacha20-ietf-poly1305`
 
 对比来说就是：
 
