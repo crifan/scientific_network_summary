@@ -1,0 +1,19 @@
+{
+  "title": "科学上网相关知识总结",
+  "description": "总结关于科学上网的概念方法及工具",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "scientific_network_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/scientific_network_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/scientific_network_summary/pdf/scientific_network_summary.pdf"
+    }
+  }
+}

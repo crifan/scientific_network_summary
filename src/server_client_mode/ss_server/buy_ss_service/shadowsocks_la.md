@@ -1,26 +1,27 @@
-# 购买 shadowsocks.to 的ss服务
+# 购买 shadowsocks.nu 的ss服务
 
 ss的服务的提供商有很多，包括国内的和国外的。
 
 其中我自己一直在用的，且觉得效果不错的是：
 
-https://www.shadowsocks.to
+https://portal.shadowsocks.nu/
 
-## shadowsocks.to 简介
+## shadowsocks.nu 简介
 
-shadowsocks.to这个网站上，可以购买ss服务。
+可以去 shadowsocks.nu 这个网站上购买ss服务。
 
-shadowsocks.to背后对应的公司是：`Cat Networks Hong Kong Limited`
+shadowsocks.nu 背后对应的公司是：`Cat Networks Hong Kong Limited`
 
-> **[warning] 该公司的网址更换了多次 **
+> #### warning::该公司的网址更换了多次
 > * 最开始的网址是：https://www.shadowsocks.com
 > * 可能是怕别人误解为`shadowsocks`的官网，所以换了地址：https://www.shadowsocks.la
 > * 可能是防止被和谐，（截至20180522）又换了地址：https://www.shadowsocks.to
 >   * 同时支付的货币币种从`美元`改为了`澳元`
+> * 后来又更换为现在的：https://portal.shadowsocks.nu/
 
-### shadowsocks.to 的自己的声明
+### shadowsocks.nu 的自己的声明
 
-正因为此，所以才会看到，最新的网站shadowsocks.to中，官网挂出了声明，专门提醒这一点：
+正因为此，所以才会看到，最新的网站shadowsocks.nu中，官网挂出了声明，专门提醒这一点：
 
 > To all visitors:
 >
@@ -30,21 +31,26 @@ shadowsocks.to背后对应的公司是：`Cat Networks Hong Kong Limited`
 >
 > Thank you.
 
-所以看到此文的人，搞清楚shadowsocks.to只是一家提供了ss服务的公司的网站即可。
+所以看到此文的人，搞清楚shadowsocks.nu只是一家提供了ss服务的公司的网站即可。
 
 ## 购买地址
 
-对应的，shadowsocks.to的最新的注册+登录+购买的地址是：
+对应的，shadowsocks.nu的最新的注册+登录+购买的地址是：
 
-https://portal.shadowsocks.to/
+https://portal.shadowsocks.nu/
 
-## 购买 shadowsocks.to 的ss服务的过程
+## 购买 shadowsocks.nu 的ss服务的过程
 
-登录地址：[Client Area - Shadowsocks.com Portal](https://portal.shadowsocks.to/clientarea.php)
+> #### note:: 下面的内容是基于旧域名 shadowsocks.to
+> 下面的购买步骤的截图和地址都是基于旧地址 shadowsocks.to
+>
+> 请自行更换为最新的地址：shadowsocks.nu
+
+登录地址：[Client Area - Shadowsocks.com Portal](https://portal.shadowsocks.nu/)
 
 会进入：
 
-https://portal.shadowsocks.to/cart.php?gid=1
+https://portal.shadowsocks.nu/cart.php
 
 ![shadowsocks.to的portoal页面](../../../assets/img/shadowsocks_la_portal_cart.png)
 

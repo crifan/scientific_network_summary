@@ -1,6 +1,6 @@
 # 科学上网相关知识总结
 
-* 版本：`v1.5`
+* 最新版本：`v1.5`
 * 更新时间：`20180522`
 
 ## 简介
@@ -14,6 +14,10 @@
 ### Gitook源码
 
 * [crifan/scientific_network_summary: 科学上网相关知识总结](https://github.com/crifan/scientific_network_summary)
+
+#### 如何使用此Gitbook源码去生成发布为电子书
+
+详见：[crifan/gitbook_template: 演示如何使用crifan的gitbook的模板去创建自己的gitbook电子书](https://github.com/crifan/gitbook_template)
 
 ### 在线浏览
 
