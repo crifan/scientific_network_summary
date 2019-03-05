@@ -1,27 +1,33 @@
-# 购买 shadowsocks.nu 的ss服务
+# 购买 secure.shadowsocks.ch 的ss服务
 
 ss的服务的提供商有很多，包括国内的和国外的。
 
 其中我自己一直在用的，且觉得效果不错的是：
 
-https://portal.shadowsocks.nu/
+**最新地址**：
 
-## shadowsocks.nu 简介
+https://secure.shadowsocks.ch
 
-可以去 shadowsocks.nu 这个网站上购买ss服务。
+## secure.shadowsocks.ch 简介
 
-shadowsocks.nu 背后对应的公司是：`Cat Networks Hong Kong Limited`
+可以去 secure.shadowsocks.ch 这个网站上购买ss服务。
+
+secure.shadowsocks.ch 背后对应的公司是：`Cat Networks Hong Kong Limited`
+
+### shadowsocks 的官网地址由于`你懂的`原因更换多次，请使用最新地址
 
 > #### warning::该公司的网址更换了多次
 > * 最开始的网址是：https://www.shadowsocks.com
 > * 可能是怕别人误解为`shadowsocks`的官网，所以换了地址：https://www.shadowsocks.la
-> * 可能是防止被和谐，（截至20180522）又换了地址：https://www.shadowsocks.to
+> * 20180522 可能是防止被和谐，又换了地址：https://www.shadowsocks.to
 >   * 同时支付的货币币种从`美元`改为了`澳元`
 > * 后来又更换为现在的：https://portal.shadowsocks.nu/
+> * 20190205 又换成了：https://secure.secure.shadowsocks.ch
+> * 20190305 又换成了：https://secure.shadowsocks.ch
 
-### shadowsocks.nu 的自己的声明
+### secure.shadowsocks.ch 的自己的声明
 
-正因为此，所以才会看到，最新的网站shadowsocks.nu中，官网挂出了声明，专门提醒这一点：
+正因为此，所以才会看到，最新的网站secure.shadowsocks.ch中，官网挂出了声明，专门提醒这一点：
 
 > To all visitors:
 >
@@ -31,20 +37,40 @@ shadowsocks.nu 背后对应的公司是：`Cat Networks Hong Kong Limited`
 >
 > Thank you.
 
-所以看到此文的人，搞清楚shadowsocks.nu只是一家提供了ss服务的公司的网站即可。
+所以看到此文的人，搞清楚secure.shadowsocks.ch只是一家提供了ss服务的公司的网站即可。
+
+### 这家shadowsocks的服务总结
+
+优点：
+
+* 节点多
+  * 之前就有遍布世界各地的多个节点，比如 `香港`,`日本`,`美国`,`俄罗斯`,`英国`等节点
+  * 后又陆续新增一些节点
+    * 我们很高兴地宣布，香港 HK5 节点已加入所有（入门版、高级版和旗舰版）服务计划，流量倍率为 1。
+    * 荷兰 NL1 节点已上线，拥有中国电信大带宽，倍率仅为 0.1，欢迎使用。
+      * NL1 in The Netherlands is now live. With high throughput capacity and lower rate only at 0.1. Please enjoy.
+* 服务稳定
+  * 目前用了好几年了，除了国内某些特殊时期（其他家服务也被停了），一般都可以稳定上网
+
+缺点：
+
+* 流量用完时，没有及时有效的通知，导致不知何故被停，后来上了网站上才看到是流量超了
+  * 详见：[【已解决】shadowsocks突然无法使用后来发现是流量用完了](http://www.crifan.com/shadowsocks_suddenly_not_available_then_found_quota_run_out)
+* 主页地址更换后，没有（比如通过邮件）及时有效的通知
+  * 都是自己后来去官网后才看到通知。。。
 
 ## 购买地址
 
-对应的，shadowsocks.nu的最新的注册+登录+购买的地址是：
+对应的，secure.shadowsocks.ch的最新的注册+登录+购买的地址是：
 
-https://portal.shadowsocks.nu/
+https://secure.shadowsocks.ch
 
-## 购买 shadowsocks.nu 的ss服务的过程
+## 购买 https://secure.shadowsocks.ch 的ss服务的过程
 
 > #### note:: 下面的内容是基于旧域名 shadowsocks.to
 > 下面的购买步骤的截图和地址都是基于旧地址 shadowsocks.to
 >
-> 请自行更换为最新的地址：shadowsocks.nu
+> 请自行更换为最新的地址：https://secure.shadowsocks.ch
 
 登录地址：[Client Area - Shadowsocks.com Portal](https://portal.shadowsocks.nu/)
 
