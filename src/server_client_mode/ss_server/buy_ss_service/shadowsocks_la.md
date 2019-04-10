@@ -1,4 +1,4 @@
-# 购买 secure.shadowsocks.ch 的ss服务
+# 购买 portal.shadowsocks.ch 的ss服务
 
 ss的服务的提供商有很多，包括国内的和国外的。
 
@@ -6,13 +6,13 @@ ss的服务的提供商有很多，包括国内的和国外的。
 
 **最新地址**：
 
-https://secure.shadowsocks.ch
+https://portal.shadowsocks.ch
 
-## secure.shadowsocks.ch 简介
+## portal.shadowsocks.ch 简介
 
-可以去 secure.shadowsocks.ch 这个网站上购买ss服务。
+可以去 portal.shadowsocks.ch 这个网站上购买ss服务。
 
-secure.shadowsocks.ch 背后对应的公司是：`Cat Networks Hong Kong Limited`
+portal.shadowsocks.ch 背后对应的公司是：`Cat Networks Hong Kong Limited`
 
 ### shadowsocks 的官网地址由于`你懂的`原因更换多次，请使用最新地址
 
@@ -22,12 +22,13 @@ secure.shadowsocks.ch 背后对应的公司是：`Cat Networks Hong Kong Limited
 > * 20180522 可能是防止被和谐，又换了地址：https://www.shadowsocks.to
 >   * 同时支付的货币币种从`美元`改为了`澳元`
 > * 后来又更换为现在的：https://portal.shadowsocks.nu/
-> * 20190205 又换成了：https://secure.secure.shadowsocks.ch
+> * 20190205 又换成了：https://secure.portal.shadowsocks.ch
 > * 20190305 又换成了：https://secure.shadowsocks.ch
+> * 20190410 又换成了：https://portal.shadowsocks.ch
 
-### secure.shadowsocks.ch 的自己的声明
+### portal.shadowsocks.ch 的自己的声明
 
-正因为此，所以才会看到，最新的网站secure.shadowsocks.ch中，官网挂出了声明，专门提醒这一点：
+正因为此，所以才会看到，最新的网站portal.shadowsocks.ch中，官网挂出了声明，专门提醒这一点：
 
 > To all visitors:
 >
@@ -37,7 +38,7 @@ secure.shadowsocks.ch 背后对应的公司是：`Cat Networks Hong Kong Limited
 >
 > Thank you.
 
-所以看到此文的人，搞清楚secure.shadowsocks.ch只是一家提供了ss服务的公司的网站即可。
+所以看到此文的人，搞清楚portal.shadowsocks.ch只是一家提供了ss服务的公司的网站即可。
 
 ### 这家shadowsocks的服务总结
 
@@ -61,16 +62,16 @@ secure.shadowsocks.ch 背后对应的公司是：`Cat Networks Hong Kong Limited
 
 ## 购买地址
 
-对应的，secure.shadowsocks.ch的最新的注册+登录+购买的地址是：
+对应的，portal.shadowsocks.ch的最新的注册+登录+购买的地址是：
 
-https://secure.shadowsocks.ch
+https://portal.shadowsocks.ch
 
-## 购买 https://secure.shadowsocks.ch 的ss服务的过程
+## 购买 https://portal.shadowsocks.ch 的ss服务的过程
 
 > #### note:: 下面的内容是基于旧域名 shadowsocks.to
 > 下面的购买步骤的截图和地址都是基于旧地址 shadowsocks.to
 >
-> 请自行更换为最新的地址：https://secure.shadowsocks.ch
+> 请自行更换为最新的地址：https://portal.shadowsocks.ch
 
 登录地址：[Client Area - Shadowsocks.com Portal](https://portal.shadowsocks.nu/)
 

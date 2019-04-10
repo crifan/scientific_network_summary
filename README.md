@@ -1,7 +1,7 @@
 # 科学上网相关知识总结
 
 * 最新版本：`v1.7`
-* 更新时间：`20190305`
+* 更新时间：`20190410`
 
 ## 简介
 
@@ -11,7 +11,7 @@
 
 本书的各种源码、在线浏览地址、多种格式文件下载如下：
 
-### Gitook源码
+### Gitbook源码
 
 * [crifan/scientific_network_summary: 科学上网相关知识总结](https://github.com/crifan/scientific_network_summary)
 

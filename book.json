@@ -34,12 +34,12 @@
   ], 
   "pluginsConfig": {
     "toolbar-button": {
-      "url": "http://book.crifan.com/books/scientific_network_summary/pdf/scientific_network_summary.pdf", 
+      "url": "https://crifan.github.io/scientific_network_summary/pdf/scientific_network_summary.pdf", 
       "icon": "fa-file-pdf-o", 
       "label": "下载PDF"
     }, 
     "sitemap-general": {
-      "prefix": "https://book.crifan.com/gitbook/scientific_network_summary/website/"
+      "prefix": "https://crifan.github.io/scientific_network_summary/website/"
     }, 
     "sharing": {
       "qq": true, 
