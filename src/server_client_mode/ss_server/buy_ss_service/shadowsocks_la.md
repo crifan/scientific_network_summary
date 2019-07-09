@@ -1,18 +1,19 @@
-# 购买 portal.shadowsocks.ch 的ss服务
+# 购买 order.shadowsocks.ch 的ss服务
 
 ss的服务的提供商有很多，包括国内的和国外的。
 
 其中我自己一直在用的，且觉得效果不错的是：
 
-**最新地址**：
+* **最新地址**：https://order.shadowsocks.ch
+  * 如果最新地址无法访问，则可以（借用别的代理）去访问**永久域名**：
+    * https://shadowsocks.com
+    * https://portal.shadowsocks.com/
 
-https://portal.shadowsocks.ch
+## order.shadowsocks.ch 简介
 
-## portal.shadowsocks.ch 简介
+可以去该网站上购买ss服务：
 
-可以去 portal.shadowsocks.ch 这个网站上购买ss服务。
-
-portal.shadowsocks.ch 背后对应的公司是：`Cat Networks Hong Kong Limited`
+order.shadowsocks.ch 背后对应的公司是：`Cat Networks Hong Kong Limited`
 
 ### shadowsocks 的官网地址由于`你懂的`原因更换多次，请使用最新地址
 
@@ -25,6 +26,10 @@ portal.shadowsocks.ch 背后对应的公司是：`Cat Networks Hong Kong Limited
 > * 20190205 又换成了：https://secure.portal.shadowsocks.ch
 > * 20190305 又换成了：https://secure.shadowsocks.ch
 > * 20190410 又换成了：https://portal.shadowsocks.ch
+> * 20190531 又换成了：https://home.shadowsocks.ch
+> * 20190625 又换成了：https://order.shadowsocks.ch/
+>   * 6月初无法连接事件与补偿
+>     * 由于“特殊事件”导致的大部分节点，6月初无法于在中国内地连接的情况，我们已第一时间恢复了所有的服务，并已为所有受影响的客户额外延长了1个月的服务时间，我们感谢您的耐心等待，由于不可抗力因素为您带来的不便，请您谅解。
 
 ### portal.shadowsocks.ch 的自己的声明
 
@@ -58,22 +63,41 @@ portal.shadowsocks.ch 背后对应的公司是：`Cat Networks Hong Kong Limited
 * 流量用完时，没有及时有效的通知，导致不知何故被停，后来上了网站上才看到是流量超了
   * 详见：[【已解决】shadowsocks突然无法使用后来发现是流量用完了](http://www.crifan.com/shadowsocks_suddenly_not_available_then_found_quota_run_out)
 * 主页地址更换后，没有（比如通过邮件）及时有效的通知
-  * 都是自己后来去官网后才看到通知。。。
+  * 都是自己后来去官网后才看到通知...
+    * 20190709：最近域名更换，开始收到邮件通知了，终于算是有改进了
+
+### Shadowsocks.com 自己的一些文档
+
+后来发现该网站 [帮助中心 - Shadowsocks.com](https://order.shadowsocks.ch/knowledgebase) 也有一些教程：
+
+* 无需登录即可查看：
+  * [Shadowsocks 客户端设置教程 - iOS - 帮助中心 - Shadowsocks.com](https://order.shadowsocks.ch/knowledgebase/49/Shadowsocks----iOS.html)
+  * [Shadowsocks 客户端设置教程 - Windows - 帮助中心 - Shadowsocks.com](https://order.shadowsocks.ch/knowledgebase/47/Shadowsocks----Windows.html)
+  * [Shadowsocks 客户端设置教程 - macOS - 帮助中心 - Shadowsocks.com](https://order.shadowsocks.ch/index.php?rp=/knowledgebase/48)
+* 需要登录才能查看
+  * [Shadowsocks 客户端设置教程 - Android - 帮助中心 - Shadowsocks.com](https://order.shadowsocks.ch/knowledgebase/44/Shadowsocks----Android.html)
+  * [Shadowsocks 客户端设置教程 - Linux - 帮助中心 - Shadowsocks.com](https://order.shadowsocks.ch/index.php?rp=/knowledgebase/40)
+  * [pac编辑语法 - 帮助中心 - Shadowsocks.com](https://order.shadowsocks.ch/knowledgebase/25/pac.html)
+
+另外还有：
+
+* [资源下载 - Shadowsocks.com](https://order.shadowsocks.ch/download)
+  * 需要的可以去找找相关资源
 
 ## 购买地址
 
-对应的，portal.shadowsocks.ch的最新的注册+登录+购买的地址是：
+该网站最新的注册+登录+购买的地址是：
 
-https://portal.shadowsocks.ch
+https://order.shadowsocks.ch
 
-## 购买 https://portal.shadowsocks.ch 的ss服务的过程
+## 购买 https://order.shadowsocks.ch 的ss服务的过程
 
 > #### note:: 下面的内容是基于旧域名 shadowsocks.to
 > 下面的购买步骤的截图和地址都是基于旧地址 shadowsocks.to
 >
-> 请自行更换为最新的地址：https://portal.shadowsocks.ch
+> 请自行更换为最新的地址：https://order.shadowsocks.ch
 
-登录地址：[Client Area - Shadowsocks.com Portal](https://portal.shadowsocks.nu/)
+登录地址：[Client Area - Shadowsocks.com Portal](https://order.shadowsocks.ch/)
 
 会进入：
 

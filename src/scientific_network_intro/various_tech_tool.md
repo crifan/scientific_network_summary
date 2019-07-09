@@ -70,3 +70,11 @@ VPN是一套技术的总称，可以理解为，**加了密的专用的网络/�
 所以遂推荐用Shadowsocks。
 
 后面的内容主要就是详细介绍Shadowsocks的技术和用法。
+
+## v2ray
+
+后来从[这里](https://since1989.org/vultr/v2ray-vmess-tcp-bbr-serverspeeder.html)听说：
+
+> 新一代的`v2ray`是替代`ss`的最新技术，效果比ss好，稳定抗干扰能力强，配合[破解版锐速](https://since1989.org/interserver/coupon-vps-locations.html)和谷歌tcp bbr加速算法，流畅观看youtube高清视频。
+
+以后有机会也去试试如何。

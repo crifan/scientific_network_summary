@@ -32,3 +32,6 @@
 * [「多态」是一家极其糟糕的服务商，烂如情怀锤。 - 简书](https://www.jianshu.com/p/556881b5a753)
 * [真正不限速的VPN推荐一：挂多态Instagram/tumblr发图秒速上传_安全防御_浠水网 xishuiw.com](http://www.xishuiw.com/info/2017-2/2017-2-9-55500.htm)
 * [多账号被封 | 参差多态，才是幸福本源 - 简书](https://www.jianshu.com/p/d2d1b630f68b)
+* [vultr vps安装vray开启bbr加速教程 – 我是王掌柜](https://since1989.org/vultr/v2ray-vmess-tcp-bbr-serverspeeder.html)
+* [帮助中心 - Shadowsocks.com](https://secure.shadowsocks.ch/knowledgebase)
+
