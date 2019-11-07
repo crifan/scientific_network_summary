@@ -12,7 +12,7 @@ Winddows中的ss客户端，有多种，常用的是：
 
 点击下载最新的Windows的客户端：
 
-![Github中下载Shadowsocks](../../assets/img/github_download_shadowsocks_win.jpg)
+![Github中下载Shadowsocks](../../../assets/img/github_download_shadowsocks_win.jpg)
 
 解压缩下载得到的zip文件后，即可得到exe可执行文件，无需额外安装，双击即可打开使用。
 

@@ -1,19 +1,26 @@
-# 购买 order.shadowsocks.ch 的ss服务
+# 购买 shadowsocks.com 的ss服务
+
+> #### warning:: 现在已不再推荐此家服务，因为最近几个月不可用
+> 最近几个月，由于（国庆70周年、我推荐了此家导致用户太多引起注意所以被封？等）各种原因，导致服务不可用，非常影响科学上网查询技术资料
+> 
+> 所以我自己现在 20191107 已换用 newspacex.com
+> 
+> 详见另外章节：[购买newspacex.com的SSR或V2Ray服务](http://book.crifan.com/books/scientific_network_summary/website/server_client_mode/ss_server/buy_ss_service/newspacex_com.html)
 
 ss的服务的提供商有很多，包括国内的和国外的。
 
-其中我自己一直在用的，且觉得效果不错的是：
+其中我之前一直在用的，且觉得效果不错的是：
 
-* **最新地址**：https://order.shadowsocks.ch
+* **最新地址**：https://portal.shadowsocks.center/
   * 如果最新地址无法访问，则可以（借用别的代理）去访问**永久域名**：
     * https://shadowsocks.com
     * https://portal.shadowsocks.com/
 
-## order.shadowsocks.ch 简介
+## shadowsocks.com 简介
 
 可以去该网站上购买ss服务：
 
-order.shadowsocks.ch 背后对应的公司是：`Cat Networks Hong Kong Limited`
+shadowsocks.com 背后对应的公司是：`Cat Networks Hong Kong Limited`
 
 ### shadowsocks 的官网地址由于`你懂的`原因更换多次，请使用最新地址
 
@@ -30,6 +37,12 @@ order.shadowsocks.ch 背后对应的公司是：`Cat Networks Hong Kong Limited`
 > * 20190625 又换成了：https://order.shadowsocks.ch/
 >   * 6月初无法连接事件与补偿
 >     * 由于“特殊事件”导致的大部分节点，6月初无法于在中国内地连接的情况，我们已第一时间恢复了所有的服务，并已为所有受影响的客户额外延长了1个月的服务时间，我们感谢您的耐心等待，由于不可抗力因素为您带来的不便，请您谅解。
+> * 20190711 又换成了：https://order.shadowsocks.se
+> * 20190902 又换成了：https://order.shadowsocks.website
+> * 20191009 又换成了：https://portal.shadowsocks.club
+>   * 我们正在尝试逐步恢复各节点，请随时回来查看您的服务器列表变化。服务补偿时间将在各节点稳定后直接增加到您的服务中。
+>   * 我们为所有客户提供了一条 v2ray / vmess 的测试线路，请访问您的服务详情页面查看。 您需要使用支持 vmess 的客户端连接，请在下载中心下载对应支持的客户端。
+> * 20191018 又换成了：https://portal.shadowsocks.center/
 
 ### portal.shadowsocks.ch 的自己的声明
 
