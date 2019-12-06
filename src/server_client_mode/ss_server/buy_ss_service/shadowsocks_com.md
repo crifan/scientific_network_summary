@@ -3,9 +3,8 @@
 > #### warning:: 现在已不再推荐此家服务，因为最近几个月不可用
 > 最近几个月，由于（国庆70周年、我推荐了此家导致用户太多引起注意所以被封？等）各种原因，导致服务不可用，非常影响科学上网查询技术资料
 > 
-> 所以我自己现在 20191107 已换用 newspacex.com
+> 所以我自己现在 20191107 已换用 别家的服务了
 > 
-> 详见另外章节：[购买newspacex.com的SSR或V2Ray服务](http://book.crifan.com/books/scientific_network_summary/website/server_client_mode/ss_server/buy_ss_service/newspacex_com.html)
 
 ss的服务的提供商有很多，包括国内的和国外的。
 

@@ -6,7 +6,7 @@
   * ShadowsocksX
   * ShadowsocksX-NG
 
-是类似的，Mac下的ShadowsocksR客户端只是后缀加上一个R：
+是类似的，Mac下的ShadowsocksR客户端只是后缀加上一个`R`：
 
 * ShadowsocksX-R
   * github首页
@@ -57,13 +57,7 @@
 
 找到你所购买的SSR的服务器配置的`订阅链接`
 
-比如之前购买的 https://newspacex.com/ 中的订阅链接：
-
-![newspacex.com的订阅连接](../../../assets/img/newspacex_com_subscribe_url.png)
-
-地址类似于：
-
-`https://newspacex.com/link/xxxxxx`
+地址类似于：`https://xxx.com/link/xxxxxx`
 
 然后去`编辑订阅`：
 

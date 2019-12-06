@@ -12,7 +12,6 @@
 * [服务器+客户端模式](server_client_mode/README.md)
   * [Shadowsocks服务器端](server_client_mode/ss_server/README.md)
     * [购买第三方服务](server_client_mode/ss_server/buy_ss_service/README.md)
-      * [购买newspacex.com的服务](server_client_mode/ss_server/buy_ss_service/newspacex_com.md)
       * [购买shadowsocks.com的服务](server_client_mode/ss_server/buy_ss_service/shadowsocks_com.md)
     * [自己搭建服务器](server_client_mode/ss_server/self_build_ss_server.md)
   * [Shadowsocks客户端](server_client_mode/ss_client/README.md)
