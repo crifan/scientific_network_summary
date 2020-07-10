@@ -35,15 +35,15 @@
 
 安装后，从应用程序中找到应用：
 
-![Mac中应用程序中的ShadowssocksX-NG-R8](../../../assets/img/mac_app_shadowsocksx_ng_r8.png)
+![Mac中应用程序中的ShadowssocksX-NG-R8](../../../../assets/img/mac_app_shadowsocksx_ng_r8.png)
 
 双击启动，通过`关于`：
 
-![ShadowssocksX-NG-R8 关于](../../../assets/img/shadowsocksx_ng_r8_about.png)
+![ShadowssocksX-NG-R8 关于](../../../../assets/img/shadowsocksx_ng_r8_about.png)
 
 可以看到当前版本是：`1.4.4-R8 (1)`
 
-![ShadowssocksX-NG-R8 版本信息](../../../assets/img/shadowsocksx_ng_r8_version.png)
+![ShadowssocksX-NG-R8 版本信息](../../../../assets/img/shadowsocksx_ng_r8_version.png)
 
 ### ShadowsocksX-NG-R8中添加服务器配置信息
 
@@ -61,23 +61,23 @@
 
 然后去`编辑订阅`：
 
-![ShadowssocksX-NG-R8 编辑订阅](../../../assets/img/shadowsocksx_ng_r8_edit_subscribe.png)
+![ShadowssocksX-NG-R8 编辑订阅](../../../../assets/img/shadowsocksx_ng_r8_edit_subscribe.png)
 
 点击`+`，再输入订阅地址：
 
-![ShadowssocksX-NG-R8 新增订阅](../../../assets/img/shadowsocksx_ng_r8_add_subscribe.png)
+![ShadowssocksX-NG-R8 新增订阅](../../../../assets/img/shadowsocksx_ng_r8_add_subscribe.png)
 
 点击`OK`保存后，再去点击`手动更新订阅`：
 
-![ShadowssocksX-NG-R8 手动更新订阅](../../../assets/img/shadowsocksx_ng_r8_update_subscribe.png)
+![ShadowssocksX-NG-R8 手动更新订阅](../../../../assets/img/shadowsocksx_ng_r8_update_subscribe.png)
 
 很快就会收到通知，更新订阅成功：
 
-![ShadowssocksX-NG-R8 更新订阅成功](../../../assets/img/shadowsocksx_ng_r8_updated_subscribe.png)
+![ShadowssocksX-NG-R8 更新订阅成功](../../../../assets/img/shadowsocksx_ng_r8_updated_subscribe.png)
 
 即可更新获取到所有的服务器配置了：
 
-![ShadowssocksX-NG-R8 批量添加了服务器](../../../assets/img/shadowsocksx_ng_r8_batch_added_servers.png)
+![ShadowssocksX-NG-R8 批量添加了服务器](../../../../assets/img/shadowsocksx_ng_r8_batch_added_servers.png)
 
 如此，再去选择某个服务器节点，即可正常使用，实现科学上网。
 

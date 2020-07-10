@@ -74,9 +74,7 @@ VPN是一套技术的总称，别称`虚拟专网`。
 
 然后后来才遇到Shadowsocks。目前已使用几年，速度和稳定性效果都很好。且（对应客户端支持）自动模式，可以自动判断访问某个网站是否要翻墙，在速度和流量之间得到了平衡。
 
-所以遂推荐用Shadowsocks。
-
-后面的内容主要就是详细介绍Shadowsocks的技术和用法。
+本教程后续内容主要就是详细介绍Shadowsocks的技术和用法。
 
 ### Shadowsocks各个版本总结
 
@@ -84,15 +82,22 @@ VPN是一套技术的总称，别称`虚拟专网`。
 
 | 科学上网相关术语 | 简称和别称 | 图标Logo | 技术特点 | 应用和技术现状 |
 | -------------- | -------- | ------- | ------- | ----------- |
-| `Shawdowsocks` | `SS`、`飞机场` | 飞机 | 具有流量特征，易被运营商拦截 | 仍有很多服务在用；原始作者被喝茶后停止维护，现由国外一大神维护 |
+| `Shawdowsocks` | `SS`、`飞机场`、`机场` | 飞机 | 具有流量特征，易被运营商拦截 | 仍有很多服务在用；原始作者被喝茶后停止维护，现由国外一大神维护 |
 | `ShawdowsocksR` | `SSR`、`酸酸乳`、和`SS`一起被称为`机场` | 粉红色飞机 | 是ss一个分支，兼容ss设置；带`R`表示增加了混淆协议，不易被流量监听| 作者被喝茶后，删除了所有github代码并停止维护一年以上了 |
 | `ShawdowsocksRR` | `SSRR`|         | 其实就是ShawdowsocksR | 因为原始作者被喝茶后，另一个大神维护起了`SSR`，取名字`SSRR` |
 
-## v2ray
+> #### warning:: 现已不推荐ss
+> 
+> 虽然之前推荐用Shadowsocks，但是现在`20200710`已不推荐，而是推荐后续提到的技术：`Trojan`。
+
+## V2Ray
 
 后来从[这里](https://since1989.org/vultr/v2ray-vmess-tcp-bbr-serverspeeder.html)听说：
 
-> 新一代的`v2ray`是替代`ss`的最新技术，效果比ss好，稳定抗干扰能力强，配合[破解版锐速](https://since1989.org/interserver/coupon-vps-locations.html)和谷歌tcp bbr加速算法，流畅观看youtube高清视频。
+> 新一代的`V2Ray`是替代`ss`的最新技术，效果比ss好，稳定抗干扰能力强，配合[破解版锐速](https://since1989.org/interserver/coupon-vps-locations.html)和谷歌tcp bbr加速算法，流畅观看youtube高清视频。
 
-以后有机会也去试试如何。
+后来也去用过，总体效果还行。不过现在感觉也无法长期稳定的保证不被封掉。
 
+## Trojan
+
+目前已知的最新技术是`Trojan`。可以算做`V2Ray`的**下一代**技术。部分科学上网提供商已提供此服务。
