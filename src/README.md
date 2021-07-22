@@ -21,14 +21,13 @@
 
 ### 在线浏览
 
-* [科学上网相关知识总结 book.crifan.com](http://book.crifan.com/books/scientific_network_summary/website)
 * [科学上网相关知识总结 crifan.github.io](https://crifan.github.io/scientific_network_summary/website)
 
 ### 离线下载阅读
 
-* [科学上网相关知识总结 PDF](http://book.crifan.com/books/scientific_network_summary/pdf/scientific_network_summary.pdf)
-* [科学上网相关知识总结 ePub](http://book.crifan.com/books/scientific_network_summary/epub/scientific_network_summary.epub)
-* [科学上网相关知识总结 Mobi](http://book.crifan.com/books/scientific_network_summary/mobi/scientific_network_summary.mobi)
+* [科学上网相关知识总结 PDF](https://crifan.github.io/scientific_network_summary/pdf/scientific_network_summary.pdf)
+* [科学上网相关知识总结 ePub](https://crifan.github.io/scientific_network_summary/epub/scientific_network_summary.epub)
+* [科学上网相关知识总结 Mobi](https://crifan.github.io/scientific_network_summary/mobi/scientific_network_summary.mobi)
 
 ## 版权说明
 
@@ -37,3 +36,9 @@
 ## 鸣谢
 
 感谢我的老婆**陈雪**的包容理解和悉心照料，才使得我`crifan`有更多精力去专注技术专研和整理归纳出这些电子书和技术教程，特此鸣谢。
+
+## 更多其他电子书
+
+本人`crifan`还写了其他`100+`本电子书教程，感兴趣可移步至：
+
+[crifan/crifan_ebook_readme: Crifan的电子书的使用说明](https://github.com/crifan/crifan_ebook_readme)
